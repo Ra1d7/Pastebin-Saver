@@ -1,0 +1,10 @@
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\bin\Debug\DirtyApp.exe.config
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\bin\Debug\DirtyApp.exe
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\bin\Debug\DirtyApp.pdb
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\obj\Debug\DirtyApp.csprojAssemblyReference.cache
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\obj\Debug\DirtyApp.Form1.resources
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\obj\Debug\DirtyApp.Properties.Resources.resources
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\obj\Debug\DirtyApp.csproj.GenerateResource.cache
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\obj\Debug\DirtyApp.csproj.CoreCompileInputs.cache
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\obj\Debug\DirtyApp.exe
+c:\users\raid7\source\repos\DirtyApp\DirtyApp\obj\Debug\DirtyApp.pdb

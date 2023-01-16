@@ -1,0 +1,11 @@
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\bin\Release\DirtyApp.exe.config
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\bin\Release\DirtyApp.exe
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\bin\Release\DirtyApp.pdb
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\obj\Release\Pastebin Saver.csproj.AssemblyReference.cache
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\obj\Release\Pastebin Saver.csproj.SuggestedBindingRedirects.cache
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\obj\Release\DirtyApp.Form1.resources
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\obj\Release\DirtyApp.Properties.Resources.resources
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\obj\Release\Pastebin Saver.csproj.GenerateResource.cache
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\obj\Release\Pastebin Saver.csproj.CoreCompileInputs.cache
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\obj\Release\DirtyApp.exe
+G:\Other computers\My Computer\source\repos\DirtyApp\DirtyApp\obj\Release\DirtyApp.pdb
